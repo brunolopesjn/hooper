@@ -1,0 +1,9 @@
+= hooper
+
+Hopper é um parser para arquivos markdown escritos na linguagem de programação Go.
+
+O objetivo é gerar uma _Abstract Syntax Tree_ (AST) de um documento markdown e, a partir da AST, poder realizar operações de manipulação ou transformação sobre o conteúdo do arquivo markdown.
+
+O nome do projeto é uma homenagem a Grace Murray Hooper que foi almirante e analista de sistemas da Marinha dos Estados Unidos e criadora de linguagens de alto nível Flow-Matic, base para criação do COBOL.
+
+Este é um projeto pessoa com fins de estudo e experimentação, não visa substituir soluções existentes ou se tornar a solução de todos os males.
